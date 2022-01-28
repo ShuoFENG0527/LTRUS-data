@@ -31,14 +31,6 @@ skf = StratifiedKFold(n_splits=5)
 def fit(bound, *param):
     de_dataset = []
     de_ratio = bound[-1]
-    # if de_ratio < 1:
-    #     de_ratio = 0.5
-    # elif 1 <= de_ratio < 2:
-    #     de_ratio = 1
-    # elif 2 <= de_ratio < 3:
-    #     optimal_ratio = 2
-    # elif 3 <= de_ratio < 5:
-    #     optimal_ratio = 4
     bound = bound[0:-1]
     for de_i in param:
         de_dataset.append(de_i)
