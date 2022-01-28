@@ -1,5 +1,5 @@
 @relation CM1
-1
+
 @attribute LOC_BLANK numeric
 @attribute BRANCH_COUNT numeric
 @attribute CALL_PAIRS numeric
