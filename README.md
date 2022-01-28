@@ -1,4 +1,5 @@
 # LTRUS-data
 This is for ISSTA.
-The csv files stores the values of the performance measures (AUC, F-measure, and MCC) of each technique.
+The file of MCC values stores the MCC values of each technique.
+The file of final defect ratio stores the final defect ratio of LTRUS-ratio and LTRUS-thres.
 The file of dataset includes the datasets we used in the paper.
