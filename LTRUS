@@ -95,7 +95,7 @@ for iteration in range(10):
         dataset = dataset.drop(columns="name.1")
         total_number = len(dataset)
         defect_ratio = len(dataset[dataset["bug"] > 0]) / total_number
-        if defect_ratio > 0.45:  # 注意这点导致的有几个文件没有选上
+        if defect_ratio > 0.45: 
             print(inputfile, " defect ratio larger than 0.45")
             continue
 
