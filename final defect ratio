@@ -1,4 +1,4 @@
-defect ratio,Technique,Classifiers
+defect ratio,Technique,Classifier
 0.487937555,LTRUS-ratio,KNN
 0.149946665,LTRUS-ratio,KNN
 0.602808509,LTRUS-ratio,KNN
