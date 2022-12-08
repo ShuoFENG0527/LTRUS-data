@@ -1,4 +1,4 @@
-mcc,Technique,Classifiers
+mcc,Technique,Classifier
 0.433056329,LTRUS-ratio,KNN
 0.163192615,LTRUS-ratio,KNN
 0.522826346,LTRUS-ratio,KNN
