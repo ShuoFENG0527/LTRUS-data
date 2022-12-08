@@ -1,6 +1,6 @@
 @relation CM1
 
-@attribute LOC_BLANK numeric
+@attribute LOC_BLANK numerics
 @attribute BRANCH_COUNT numeric
 @attribute CALL_PAIRS numeric
 @attribute LOC_CODE_AND_COMMENT numeric
